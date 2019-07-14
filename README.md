@@ -1,6 +1,6 @@
 # csvtk
 
-Another cross-platform, efficient and practical CSV/TSV toolkit.
+Another cross-platform, efficient and versatile CSV/TSV toolkit.
 
 ## Features
 
